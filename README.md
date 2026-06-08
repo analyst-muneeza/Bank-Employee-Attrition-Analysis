@@ -70,6 +70,7 @@ Bank-Employee-Attrition-Analysis/
 │
 ├── SQL/
 │   ├── bank_attrition.db
+|   ├── cleaned_bank_attrition.csv
 │   ├── bank_attrition_queries.sql
 │   └── README.md
 │
